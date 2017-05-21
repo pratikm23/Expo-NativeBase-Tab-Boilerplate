@@ -1,3 +1,9 @@
+This project includes a custom boilerplate to easily start creating apps in CRNA Expo React Native and Nativebase.
+This project includes a tab based layout, usage of custom fonts and Ex-Navigation.
+
+![Alt text](img/1.png?raw=true "FirstTab")
+![Alt text](img/2.png?raw=true "SecondTab")
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
